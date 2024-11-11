@@ -1,4 +1,4 @@
-# first_app
+# mihon-social
 
 A new Flutter project.
 
